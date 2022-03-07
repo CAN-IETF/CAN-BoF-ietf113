@@ -3,7 +3,6 @@ Time: Wed (March 22) , 120min
 Vienna time 10:00 - 12:00
 UTC 09:00 - 11:00
 CST (UTC+8) 17:00 - 19:00 – Beijing/Singapore
-Information also available on side meeting wiki: https://trac.ietf.org/trac/ietf/meeting/wiki/110sidemeetings
 
 Description: 
 Computing-Aware Networking (CAN) aims at computing and network resource optimization by steering traffic to appropriate computing resources considering not only routing metric but also computing resource metric and service affiliation.
