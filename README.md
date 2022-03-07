@@ -13,7 +13,7 @@ Computing-Aware Networking (CAN) aims at computing and network resource optimiza
 This Non WG-Forming BoF will discuss the motivation of the work, the principle use cases, problems of existing technologies,  and the potential solutions.
 
 ## Link to slides
-TBD
+- https://github.com/CAN-IETF/CAN-BoF-ietf113
 
 ## Drafts:
 
